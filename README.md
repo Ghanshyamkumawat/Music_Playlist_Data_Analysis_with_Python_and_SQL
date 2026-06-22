@@ -6,9 +6,9 @@ This project analyzes a music playlist dataset using Python.
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+- Matplotlib 
 - Jupyter Notebook
-
+  
 ## Project Steps
 1. Import dataset
 2. Clean missing values
